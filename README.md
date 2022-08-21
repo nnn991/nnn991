@@ -1,8 +1,7 @@
-- 👋 Hi, I’m JungHun Lee
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 안녕하십니까. 저는 이정훈입니다.
+- 👀 신입 프론트앤드 개발자를 꿈꾸고 있습니다.
+- 🌱 현재 React를 공부하고 있습니다.
+
 
 <!---
 nnn991/nnn991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
